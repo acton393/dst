@@ -106,5 +106,11 @@ return {
         -- https://steamcommunity.com/sharedfiles/filedetails/?id=1837053004
       configuration_options={  },
       enabled=true 
+    },
+    ["workshop-2616352616"]={
+        -- Storeroom
+        -- https://steamcommunity.com/sharedfiles/filedetails/?id=2616352616&searchtext=storeroom
+      configuration_options={  },
+      enabled=true 
     }
   }
