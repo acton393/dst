@@ -118,5 +118,11 @@ return {
         -- https://steamcommunity.com/sharedfiles/filedetails/?id=676297854&searchtext=Fire+resurrection
       configuration_options={  },
       enabled=true 
-    }
+    },
+    ["workshop-1207269058"]={
+      -- 简易血条DST
+      -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058&searchtext=Simple+Health+Bar+DST
+      configuration_options={  },
+      enabled=true 
+  },
   }
