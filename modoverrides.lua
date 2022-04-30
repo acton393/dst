@@ -112,5 +112,11 @@ return {
         -- https://steamcommunity.com/sharedfiles/filedetails/?id=2616352616&searchtext=storeroom
       configuration_options={  },
       enabled=true 
+    },
+    ["workshop-676297854"]={
+        -- Fire resurrection
+        -- https://steamcommunity.com/sharedfiles/filedetails/?id=676297854&searchtext=Fire+resurrection
+      configuration_options={  },
+      enabled=true 
     }
   }
